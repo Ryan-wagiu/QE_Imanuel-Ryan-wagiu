@@ -1,7 +1,10 @@
 Apa itu versioning
 yaitu mengatur versi dari source code program
-singel user SCCS-1972 Unix only, RCS-1982 Cross platform, text  only
+
+singel user SCCS-1972 Unix only, RCS-1982 Cross platform, text only
+
 Central CVS-1986 File focus, Perforce - 1995, Subversion-200-track directory, stucture, Microsoft Team Fondation Server-2005
+
 Distributed Git-2005, Mercurial-2005, Bazaar-2005.
 
 VCS version control system. Adalah tools yang membantu tim pengembang perangkat lunak untuk mengelola perubahan kode program dari waktu ke waktu. yang sangat membantu dalam memecahkan beberapa masalah contohnya melacak setiap perubahan yang terjadi membantu mengurangi terjadi nya konflik dari perkerjaan tim atau grup
