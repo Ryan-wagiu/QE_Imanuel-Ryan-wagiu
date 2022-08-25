@@ -1,0 +1,2 @@
+caranya untuk mempunyai ember dengan isi 4L air dari ember 3L dan ember 5L yaitu 
+-dengan mengisi setengah dari ukuran masing-masing ember dengan air dan kumpulkan air dari 2 ember tersebut pada ember 5L maka jumlah air dari kedua ember yang telah dikumpulkan adalah 4L
