@@ -3,6 +3,7 @@
 - com.hascode.tutorial.entity memiliki Number Of Class yang sama dengan com.hascode.tutorial.service
 - com.hascode.tutorial.entity memiliki Line Coverage dengan persentasi yang lebih kecil yaitu 67% dari 9 baris code atau 6/9 sedangkan com.hascode.tutorial.service yaitu 100% dari 6 baris code atau 6/6
 - com.hascode.tutorial.entity memiliki Mutation Coverage dengan persentasi 67% dari 2/3 dan com.hascode.tutorial.service Mutation Coverage yaitu 75% dari 3/4
+
 disini dapat dilihat com.hascode.tutorial.sevice memiliki code Coverage yang lebih baik
 
 
