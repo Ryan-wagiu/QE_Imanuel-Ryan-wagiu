@@ -1,6 +1,6 @@
 # Praktikum
 
-Link dashboard : https://imanuelryanwagiu.testrail.io/index.php?/tests/view/7
+Link : https://imanuelryanwagiu.testrail.io/index.php?/tests/view/7
 
 
 TestRail
