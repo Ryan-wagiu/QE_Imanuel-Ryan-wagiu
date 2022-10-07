@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Books","Search with available book","SUCCESS","2022-10-07T18:01:57.9894832+08:00[Asia/Singapore]","0.0","34.27"
+"Login","Login with valid username and valid password","ERROR","2022-10-07T18:03:45.8995121+08:00[Asia/Singapore]","0.0","52.19"
+"Login","Login with invalid username","ERROR","2022-10-07T18:04:38.802837+08:00[Asia/Singapore]","0.0","51.94"
