@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: EMPTY_NAME
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.394 s <<< FAILURE! - in EMPTY_NAME
+EMPTY_NAME.add new Product  Time elapsed: 0.394 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "io.cucumber.messages.Messages$GherkinDocument$Feature$Scenario.getExamplesCount()" because "this.currentScenarioDefinition" is null
+

@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Get cart
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.373 s <<< FAILURE! - in Get cart
+Get cart.get all cart  Time elapsed: 3.373 s  <<< ERROR!
+io.cucumber.core.runner.AmbiguousStepDefinitionsException: 
+"I get status code 200" matches more than one step definition:
+  "I get status code 200" in starter.stepdefinition.LoginSteps.iGetStatusCode200()
+  "I get status code {int}" in starter.stepdefinition.ProductSteps.iGetStatusCode(int)
+

@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: User login
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.841 s <<< FAILURE! - in User login
+User login.Login with valid username and password  Time elapsed: 3.841 s  <<< ERROR!
+io.cucumber.core.runner.AmbiguousStepDefinitionsException: 
+"I get status code 200" matches more than one step definition:
+  "I get status code 200" in starter.stepdefinition.LoginSteps.iGetStatusCode200()
+  "I get status code {int}" in starter.stepdefinition.ProductSteps.iGetStatusCode(int)
+

@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get cart","get all cart","SUCCESS","2022-10-30T04:08:04.9489781+08:00[Asia/Singapore]","0.0","3.19"
+"User login","Login with valid username and password","SUCCESS","2022-10-30T04:08:05.0809726+08:00[Asia/Singapore]","0.0","3.53"
+"Delete user","delete a user","SUCCESS","2022-10-30T04:08:05.0709721+08:00[Asia/Singapore]","0.0","3.07"
